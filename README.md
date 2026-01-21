@@ -1,6 +1,6 @@
 <div align="left">
   <h1>SO BE IT.</h1>
-  <h3>I AM Muhammad Afnan Risandi alias RAGERONEE.</h3>
+  <h3>I AM Muhammad Afnan Risandi alias RAGERONE.</h3>
   <p><b>MECHATRONICS ENGINEER & ARTIFICIAL INTELLIGENCE STUDENT</b></p>
 </div>
 
