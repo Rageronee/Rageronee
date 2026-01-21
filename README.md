@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="assets/banner_v2.png" alt="Rageronee Banner" width="100%" />
-</div>
-
-<br />
-
 <div align="left">
   <h1>SO BE IT.</h1>
   <h3>I AM Muhammad Afnan Risandi alias RAGERONEE.</h3>
