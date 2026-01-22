@@ -32,32 +32,44 @@
     <td width="55%" valign="top">
       <h2>// TOOLKIT</h2>
 
-      <b>LANGUAGES</b><br />
-      <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-      <img src="https://img.shields.io/badge/RUST-000000?style=for-the-badge&logo=rust&logoColor=white" />
-      <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-      <br /><br />
-      
-      <b>AI & DATA</b><br />
-      <img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-      <img src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-      <img src="https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-      <img src="https://img.shields.io/badge/SCIKIT_LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-      <br /><br />
-      
-      <b>ROBOTICS & SYSTEMS</b><br />
-      <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
-      <img src="https://img.shields.io/badge/ARDUINO-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-      <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-      <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-      <br /><br />
-
-      <b>WEB TECHNOLOGIES</b><br />
-      <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/TAILWIND-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-      <img src="https://img.shields.io/badge/SUPABASE-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+      <table border="0" width="100%" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="30%" valign="top"><b>LANGUAGES</b></td>
+          <td width="70%">
+            <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+            <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+            <img src="https://img.shields.io/badge/RUST-000000?style=for-the-badge&logo=rust&logoColor=white" />
+            <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+          </td>
+        </tr>
+        <tr>
+          <td valign="top"><b>AI & DATA</b></td>
+          <td>
+            <img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+            <img src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+            <img src="https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+            <img src="https://img.shields.io/badge/SCIKIT_LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+          </td>
+        </tr>
+        <tr>
+          <td valign="top"><b>ROBOTICS</b></td>
+          <td>
+            <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+            <img src="https://img.shields.io/badge/ARDUINO-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+            <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+            <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+          </td>
+        </tr>
+        <tr>
+          <td valign="top"><b>WEB</b></td>
+          <td>
+            <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+            <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+            <img src="https://img.shields.io/badge/TAILWIND-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+            <img src="https://img.shields.io/badge/SUPABASE-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
@@ -69,10 +81,10 @@
   <table border="0" width="100%">
     <tr>
       <td width="50%" align="center">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rageronee&show_icons=true&theme=transparent&hide_border=true&title_color=000000&text_color=444444&icon_color=000000" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rageronee&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" />
       </td>
       <td width="50%" align="center">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rageronee&layout=compact&theme=transparent&hide_border=true&title_color=000000&text_color=444444" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rageronee&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=FFFFFF" />
       </td>
     </tr>
   </table>
