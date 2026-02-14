@@ -1,29 +1,40 @@
-<div align="center">
+<table border="0" width="100%">
+<tr>
+<td width="75%" valign="top">
 
 # MUHAMMAD AFNAN RISANDI
 
-### MECHATRONICS ENGINEER & ARTIFICIAL INTELLIGENCE SPECIALIST
+### MECHATRONICS ENGINEER & AI SPECIALIST
 
 *"SO BE IT."*
 
-<br />
+</td>
+<td width="25%" align="right" valign="top">
 
 [![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rageronee)
+<br />
 [![Email](https://img.shields.io/badge/EMAIL-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadafnanrisandi@gmail.com)
 
-<br />
-<hr width="50%" />
-<br />
+</td>
+</tr>
+</table>
+
+<hr />
+
+<table border="0" width="100%">
+<tr>
+<td width="45%" valign="top">
 
 ## // OBJECTIVE
 
 Architecting intelligent systems at the intersection of **Physical Mechanics** and **Computational Intelligence**.
-<br />
+<br /><br />
 Focusing on **Autonomous Agents**, **High-Precision Robotics**, and **Computer Vision**.
-<br />
+<br /><br />
 *"We build the future, or we become obsolete."*
 
-<br />
+</td>
+<td width="55%" valign="top">
 
 ## // TOOLKIT
 
@@ -41,7 +52,7 @@ Focusing on **Autonomous Agents**, **High-Precision Robotics**, and **Computer V
 ![PyTorch](https://img.shields.io/badge/PYTORCH-333333?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TENSORFLOW-333333?style=flat-square&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OPENCV-333333?style=flat-square&logo=opencv&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/SCIKIT_LEARNING-333333?style=flat-square&logo=scikitlearn&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/SCIKIT_LEARN-333333?style=flat-square&logo=scikitlearn&logoColor=white)
 
 <br />
 
@@ -52,23 +63,25 @@ Focusing on **Autonomous Agents**, **High-Precision Robotics**, and **Computer V
 ![Linux](https://img.shields.io/badge/LINUX-333333?style=flat-square&logo=linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/DOCKER-333333?style=flat-square&logo=docker&logoColor=white)
 
-<br />
+</td>
+</tr>
+</table>
 
-**WEB TECHNOLOGIES**
-<br />
-![React](https://img.shields.io/badge/REACT-333333?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/NEXT.JS-333333?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TAILWIND-333333?style=flat-square&logo=tailwindcss&logoColor=white)
-![Supabase](https://img.shields.io/badge/SUPABASE-333333?style=flat-square&logo=supabase&logoColor=white)
+<hr />
 
-<br />
-<hr width="50%" />
-<br />
+<table border="0" width="100%">
+<tr>
+<td width="50%" align="center">
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Rageronee&show_icons=true&theme=dark&hide_border=true&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff)
-<br />
+
+</td>
+<td width="50%" align="center">
+
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rageronee&layout=compact&theme=dark&hide_border=true&title_color=ffffff&text_color=aaaaaa)
 
-<br />
+</td>
+</tr>
+</table>
 
-</div>
+<br />
