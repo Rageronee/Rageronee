@@ -73,12 +73,12 @@ Focusing on **Autonomous Agents**, **High-Precision Robotics**, and **Computer V
 <tr>
 <td width="50%" align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Rageronee&show_icons=true&theme=dark&hide_border=true&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rageronee&theme=react-dark&area=true&hide_border=true&bg_color=000000&color=ffffff&line=aaaaaa&point=ffffff)
 
 </td>
 <td width="50%" align="center">
 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rageronee&layout=compact&theme=dark&hide_border=true&title_color=ffffff&text_color=aaaaaa)
+![Metrics](https://metrics.lecoq.io/Rageronee?template=classic&base=header%2C%20activity%2C%20repositories&config.timezone=Asia%2FJakarta&config.display=compact)
 
 </td>
 </tr>
