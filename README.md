@@ -78,7 +78,7 @@ Focusing on **Autonomous Agents**, **High-Precision Robotics**, and **Computer V
 </td>
 <td width="50%" align="center">
 
-![Metrics](https://metrics.lecoq.io/Rageronee?template=classic&base=header%2C%20activity%2C%20repositories&config.timezone=Asia%2FJakarta&config.display=compact)
+![Metrics](https://metrics.lowlighter.xyz/Rageronee?template=classic&base=header%2C%20activity%2C%20repositories&config.timezone=Asia%2FJakarta&config.display=compact)
 
 </td>
 </tr>
